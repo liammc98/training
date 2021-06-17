@@ -15,7 +15,7 @@ public class Hello {
 
 		emp2.setNumber(12);
 		emp2.setName("Matthew O'Reilly");
-		emp2.setSalary(0.01f);
+		emp2.setSalary(7000f);
 
     System.out.println(emp1);
     System.out.println(emp2);
